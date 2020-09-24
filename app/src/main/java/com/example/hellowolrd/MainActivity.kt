@@ -12,10 +12,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         setSupportActionBar(findViewById(R.id.toolbar))
 
-//        btn.setOnClickListener{
-//            //testText.text = "hogeeee"
-//            // startActivity(Intent(this,  Product::class.java))
-//            //Log.d("hogeeeee", "test")
-//        }
     }
 }
